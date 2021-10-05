@@ -32,14 +32,14 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://i.ibb.co/9rhRWJK/Ruby-logo.png" />
+<img align="left" width="26px" src="https://i.ibb.co/9rhRWJK/Ruby-logo.png" alt="Ruby" />
+<img align="left" width="26px" src="https://i.ibb.co/0KXswW5/584815fdcef1014c0b5e497a.png" alt="Postgresql" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://i.ibb.co/dbng2WG/rails-1-logo.png" />
+<img align="left" alt="Rails" width="26px" src="https://i.ibb.co/dbng2WG/rails-1-logo.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="ASP.NET" width="26px" src="https://i.ibb.co/NLgjYrK/dotnet.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -47,7 +47,7 @@
 <img align="left" alt="Azure" width="26px" src="https://i.ibb.co/mJ7PHGt/azure.png" />
 <img align="left" alt="Machine Learning" width="26px" src="https://i.ibb.co/ZBGL8Sb/ml.png" />
 <img align="left" alt="TensorFlow" width="26px" src="https://i.ibb.co/tXpvrk0/tensor.png" />
-<img align="left" alt="TensorFlow" width="26px" src="https://i.ibb.co/F6w3SBL/Amazon-Web-Services-Logo-wine.png" />
+<img align="left" alt="AWS" width="26px" src="https://i.ibb.co/F6w3SBL/Amazon-Web-Services-Logo-wine.png" />
 <br />
 
 
