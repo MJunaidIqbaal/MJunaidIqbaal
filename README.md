@@ -1,7 +1,7 @@
 ### Hi | سلام there, I'm Junaid - aka [thejunaidiqbal][website] 👋
 
 [![Website](https://img.shields.io/website?label=thejunaidiqbal.com&style=for-the-badge&url=https%3A%2F%2Fthejunaidiqbal.com)](https://thejunaidiqbal.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/thejunaidiqbal_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=thejunaidiqbal_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/helojunaydiqbal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=helojunaydiqbal)
 
 
 ## I'm Associate Software Engineer, GOLD - MLSA [@Microsoft][msp], Entrepreneur, Trainer/Public Speaker, Azure - Cloud Specialist!
@@ -83,10 +83,10 @@
 
 [website]: https://thejunaidiqbal.com
 [msp]: https://studentambassadors.microsoft.com/en-US/profile/5195
-[twitter]: https://twitter.com/thejunaidiqbal_
-[instagram]: https://instagram.com/thejunaidiqbal
-[linkedin]: https://linkedin.com/in/thejunaidiqbal
-[facebook]: https://facebook.com/thejunaidiqbal
+[twitter]: https://twitter.com/helojunaydiqbal
+[instagram]: https://instagram.com/hellojunaydiqbal
+[linkedin]: https://linkedin.com/in/hellojunaydiqbal
+[facebook]: https://facebook.com/hellojunaydiqbal
 [quora]: https://www.quora.com/profile/Muhammad-Junaid-Iqbal-6
 [systemplus]: https://systemplus.co/
 
