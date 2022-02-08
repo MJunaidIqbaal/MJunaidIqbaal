@@ -91,4 +91,4 @@
 [systemplus]: https://systemplus.co/
 
 <br /><br />
-<img align="left" src="https://komarev.com/ghpvc/?username=thejunaidiqbal" alt="thejunaidiqbal" />
+<img align="left" src="https://komarev.com/ghpvc/?username=hellojunaydiqbal" alt="hellojunaydiqbal" />
