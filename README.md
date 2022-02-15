@@ -1,6 +1,6 @@
-### Hi | سلام there, I'm Junaid - aka [thejunaidiqbal][website] 👋
+### Hi | سلام there, I'm Junaid - aka [junaydiqbal][website] 👋
 
-[![Website](https://img.shields.io/website?label=thejunaidiqbal.com&style=for-the-badge&url=https%3A%2F%2Fthejunaidiqbal.com)](https://thejunaidiqbal.com)
+[![Website](https://img.shields.io/website?label=junaydiqbal.com&style=for-the-badge&url=https%3A%2F%2Fjunaydiqbal.com)](https://junaydiqbal.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/helojunaydiqbal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=helojunaydiqbal)
 
 
@@ -80,7 +80,7 @@
 </details>
 
 
-[website]: https://thejunaidiqbal.com
+[website]: https://junaydiqbal.com
 [msp]: https://studentambassadors.microsoft.com/en-US/profile/5195
 [twitter]: https://twitter.com/helojunaydiqbal
 [instagram]: https://instagram.com/hellojunaydiqbal
