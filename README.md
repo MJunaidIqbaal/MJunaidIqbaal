@@ -15,9 +15,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travelling; aka Treveler Guru ✈️
 
-### Twitch TV 📺
-[<img src="https://i.ibb.co/0qMgfz1/ecfa37c5f4abaad2f6cf39f4316fb9c7.gif" alt="thejunaidiqbal on Twitch" width="100"/>](https://www.twitch.tv/thejunaidiqbal)
-
 ### Connect with me:
 
 [<img align="left" alt="thejunaidiqbal.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
