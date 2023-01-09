@@ -78,7 +78,7 @@
 [msp]: https://studentambassadors.microsoft.com/en-US/profile/5195
 [twitter]: https://twitter.com/helojunaydiqbal
 [instagram]: https://instagram.com/hellojunaydiqbal
-[linkedin]: https://linkedin.com/in/hellojunaydiqbal
+[linkedin]: https://linkedin.com/in/junaydiqbal
 [facebook]: https://facebook.com/hellojunaydiqbal
 [quora]: https://www.quora.com/profile/Muhammad-Junaid-Iqbal-6
 [systemplus]: https://systemplus.co/
