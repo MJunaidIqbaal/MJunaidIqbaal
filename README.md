@@ -1,4 +1,4 @@
-### Hi | سلام there, I'm Junaid - aka [junaydiqbaal][website] 👋
+### Hi | سلام there, I'm Junaid - aka [Junaid Iqbaal][website] 👋
 
 [![Website](https://img.shields.io/website?label=junaydiqbal.com&style=for-the-badge&url=https%3A%2F%2Fjunaydiqbal.com)](https://junaydiqbal.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/junaydiqball?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=junaydiqball)
@@ -17,12 +17,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="thejunaidiqbal.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="thejunaidiqbal | Quora " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
-[<img align="left" alt="thejunaidiqbal_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="thejunaidiqbal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="thejunaidiqbal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="thejunaidiqbal | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="mjunaidiqbaal.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mjunaidiqbaal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mjunaidiqbaal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mjunaidiqbaal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mjunaidiqbaal | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
 <br />
@@ -74,10 +73,10 @@
 
 [website]: https://mjunaidiqbaal.com
 [msp]: https://studentambassadors.microsoft.com/en-US/profile/5195
-[twitter]: https://twitter.com/helojunaydiqbal
-[instagram]: https://instagram.com/hellojunaydiqbal
-[linkedin]: https://linkedin.com/in/junaydiqbal
-[facebook]: https://facebook.com/hellojunaydiqbal
+[twitter]: https://twitter.com/mjunaidiqbaal
+[instagram]: https://instagram.com/mjunaidiqbaal
+[linkedin]: https://linkedin.com/in/mjunaidiqbaal
+[facebook]: https://facebook.com/mjunaidiqbaal
 [quora]: https://www.quora.com/profile/Muhammad-Junaid-Iqbal-6
 [staunch]: https://staunch.co/
 
