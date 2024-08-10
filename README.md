@@ -1,7 +1,7 @@
 ### Hi | سلام there, I'm Junaid - aka [Junaid Iqbaal][website] 👋
 
-[![Website](https://img.shields.io/website?label=junaydiqbal.com&style=for-the-badge&url=https%3A%2F%2Fjunaydiqbal.com)](https://junaydiqbal.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/junaydiqball?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=junaydiqball)
+[![Website](https://img.shields.io/website?label=mjunaidiqbaal.com&style=for-the-badge&url=https%3A%2F%2Fmjunaidiqbaal.com)](https://mjunaidiqbaal.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mjunaidiqbaal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=mjunaidiqbaal)
 
 
 ## I'm Senior Software Engineer, GOLD - MLSA [@Microsoft][msp], Entrepreneur, Trainer/Public Speaker, Azure - Cloud Specialist!
