@@ -73,7 +73,7 @@
 
 [website]: https://mjunaidiqbaal.com
 [msp]: https://studentambassadors.microsoft.com/en-US/profile/5195
-[twitter]: https://twitter.com/mjunaidiqbaal
+[twitter]: https://x.com/mjunaidiqbaal
 [instagram]: https://instagram.com/mjunaidiqbaal
 [linkedin]: https://linkedin.com/in/mjunaidiqbaal
 [facebook]: https://facebook.com/mjunaidiqbaal
