@@ -1,6 +1,6 @@
 ### Hi | سلام there, I'm Junaid - aka [Junaid Iqbaal][website] 👋
 
-[![Website](https://img.shields.io/website?label=mjunaidiqbaal.com&style=for-the-badge&url=https%3A%2F%2Fmjunaidiqbaal.com)](https://mjunaidiqbaal.com)
+[![Website](https://img.shields.io/website?label=mjunaidiqbaal.com&style=for-the-badge&url=https://www.mjunaidiqbaal.com)](https://mjunaidiqbaal.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mjunaidiqbaal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=mjunaidiqbaal)
 
 
