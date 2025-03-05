@@ -8,7 +8,7 @@
 
 - 👨‍🏫 Senior Software Engineer at [Staunch][staunch]!
 - 🔭 I’m currently working GOLD - MLSA at [Microsoft][msp]!
-- 👨‍🏫 Microsoft Certified Trainer (MCT) 
+- 👨‍🏫 Microsoft Certified Trainer (MCT)
 - ✍️ Top Technical Writer [Quora][quora]!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with others Developers
