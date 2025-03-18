@@ -6,7 +6,7 @@
 
 ## I'm Senior Software Engineer, GOLD - MLSA [@Microsoft][msp], Entrepreneur, Trainer/Public Speaker, Azure - Cloud Specialist!
 
-- 👨‍🏫 Senior Software Engineer at [Staunch][staunch]!
+- 👨‍🏫 CEO at [Corvinox Limited][corvinoxltd]!
 - 🔭 I’m currently working GOLD - MLSA at [Microsoft][msp]!
 - 👨‍🏫 Microsoft Certified Trainer (MCT)
 - ✍️ Top Technical Writer [Quora][quora]!
@@ -78,7 +78,7 @@
 [linkedin]: https://linkedin.com/in/mjunaidiqbaal
 [facebook]: https://facebook.com/mjunaidiqbaal
 [quora]: https://www.quora.com/profile/Muhammad-Junaid-Iqbal-6
-[staunch]: https://staunch.co/
+[corvinoxltd]: https://corvinoxltd.com/
 
 <br /><br />
 <img align="left" src="https://komarev.com/ghpvc/?username=hellojunaydiqbal" alt="hellojunaydiqbal" />
