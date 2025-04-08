@@ -7,7 +7,7 @@
 ## I'm Entrepreneur & Senior Full Stack Developer, GOLD - MLSA [@Microsoft][msp], Entrepreneur, Trainer/Public Speaker, Azure - Cloud Specialist! 
 
 - 👨‍🏫 CEO at [Corvinox Limited][corvinoxltd]!
-- 🔭 I’m currently working GOLD - MLSA at [Microsoft][msp]!
+- 🔭 I’m currently working GOLD - MLSA at [Microsoft][msp]! 
 - 👨‍🏫 Microsoft Certified Trainer (MCT) 
 - ✍️ Top Technical Writer [Quora][quora]!
 - 🌱 I’m currently learning everything
