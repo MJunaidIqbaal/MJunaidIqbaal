@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mjunaidiqbaal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=mjunaidiqbaal)
 
 
-## I'm Entrepreneur & Senior Full Stack Developer, GOLD - MLSA [@Microsoft][msp], Entrepreneur, Trainer/Public Speaker, Azure - Cloud Specialist! 
+## I'm Entrepreneur & Senior Full Stack Developer, GOLD - MLSA [@Microsoft][msp], Entrepreneur, Trainer/Public Speaker, Azure - Cloud Specialist!
 
 - 👨‍🏫 CEO at [Corvinox Limited][corvinoxltd]!
 - 🔭 I’m currently working GOLD - MLSA at [Microsoft][msp]! 
