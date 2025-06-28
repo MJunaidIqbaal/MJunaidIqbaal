@@ -66,7 +66,17 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  ![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjunaidiqbaal\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mjunaidiqbaal&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mjunaidiqbaal&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mjunaidiqbaal&show_icons=true" />
+</picture>
 </details>
 
 
