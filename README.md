@@ -77,11 +77,10 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=mjunaidiqbaal&show_icons=true" />
   </picture>
-  <picture>
-    <a href="https://github.com/mjunaidiqbaal/convoychat">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjunaidiqbaal&layout=compact&langs_count=8&card_width=320" />
-    </a>
-  </picture>
+  </br>
+  <a href="https://github.com/mjunaidiqbaal/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjunaidiqbaal&layout=compact&langs_count=8&card_width=320" />
+  </a>
 </details>
 
 
