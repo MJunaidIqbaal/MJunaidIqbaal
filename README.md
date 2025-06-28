@@ -77,6 +77,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=mjunaidiqbaal&show_icons=true" />
 </picture>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjunaidiqbaal\&layout=compact)
 </details>
 
 
