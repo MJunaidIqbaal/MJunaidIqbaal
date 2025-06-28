@@ -66,8 +66,7 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-
-<img align="left" alt="junaydiqbal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=junaydiqbal&show_icons=true&hide_border=true" />
+  ![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjunaidiqbaal&show_icons=true&theme=radical)
 </details>
 
 
