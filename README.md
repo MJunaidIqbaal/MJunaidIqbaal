@@ -91,7 +91,7 @@
 [linkedin]: https://linkedin.com/in/mjunaidiqbaal
 [facebook]: https://facebook.com/mjunaidiqbaal
 [quora]: https://www.quora.com/profile/Muhammad-Junaid-Iqbal-6
-[corvinoxltd]: https://corvinoxltd.com/
+[corvinoxltd]: https://www.corvinoxltd.com/
 
 <br /><br />
 <img align="left" src="https://komarev.com/ghpvc/?username=hellojunaydiqbal" alt="hellojunaydiqbal" />
