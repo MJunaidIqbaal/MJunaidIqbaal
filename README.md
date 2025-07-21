@@ -7,7 +7,7 @@
 ## I'm Entrepreneur & Senior Full Stack Developer, GOLD - MLSA [@Microsoft][msp], Entrepreneur, Trainer/Public Speaker, Azure - Cloud Specialist!
 
 - 👨‍🏫 CEO at [Corvinox Limited][corvinoxltd]!
-- 🔭 I’m currently working GOLD - MLSA at [Microsoft][msp]! 
+- 🔭 Volunteering work GOLD - MLSA at [Microsoft][msp]! 
 - 👨‍🏫 Microsoft Certified Trainer (MCT) 
 - ✍️ Top Technical Writer [Quora][quora]!
 - 🌱 I’m currently learning everything
@@ -85,7 +85,7 @@
 
 
 [website]: https://mjunaidiqbaal.com/
-[msp]: https://studentambassadors.microsoft.com/en-US/profile/5195
+[msp]: https://mvp.microsoft.com/en-US/studentambassadors/profile/71f108b8-12e1-4162-85fb-e7144422c4df
 [twitter]: https://x.com/mjunaidiqbaal
 [instagram]: https://instagram.com/mjunaidiqbaal
 [linkedin]: https://linkedin.com/in/mjunaidiqbaal
