@@ -62,7 +62,7 @@
 ➡️ [more blog posts...](https://thejunaidiqbal.com)
 
 
----
+--- 
 
 <details>
   <summary>:zap: Github Stats</summary>
