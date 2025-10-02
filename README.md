@@ -6,7 +6,7 @@
 
 ## I'm Entrepreneur & Senior Full Stack Developer, GOLD - MLSA [@Microsoft][msp], Entrepreneur, Trainer/Public Speaker, Azure - Cloud Specialist!
 
-- 👨‍🏫 Full Stack Senior Software Engineer 
+- 👨‍🏫 Full Stack Senior Software Engineer
 - 🔭 Volunteering work GOLD - MLSA at [Microsoft][msp]! 
 - 👨‍🏫 Microsoft Certified Trainer (MCT) 
 - ✍️ Top Technical Writer [Quora][quora]!
